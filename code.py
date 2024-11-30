@@ -9,3 +9,6 @@ def table_multiplication(n):
 # Exemple d'utilisation
 nombre = int(input("Entrez un nombre : "))
 table_multiplication(nombre)
+
+
+#commme
